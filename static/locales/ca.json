@@ -1,3 +1,6 @@
 {
-  "locale": "Canada"
+  "name": "Canada",
+  "countryCode": "CA",
+  "countryCodeLower": "ca",
+  "languageCode": "en-CA"
 }
