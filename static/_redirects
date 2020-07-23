@@ -1,5 +1,5 @@
-/locale.json  /locales/ca.json       200  Country=ca
-/locale.json  /locales/au.json       200  Country=au
-/locale.json  /locales/nz.json       200  Country=nz
-/locale.json  /locales/ie.json       200  Country=ie
-/locale.json  /locales/default.json  200
+/locale.json  /locales/ca.json       200!  Country=ca
+/locale.json  /locales/au.json       200!  Country=au
+/locale.json  /locales/nz.json       200!  Country=nz
+/locale.json  /locales/ie.json       200!  Country=ie
+/locale.json  /locales/default.json  200!
