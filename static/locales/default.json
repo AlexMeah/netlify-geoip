@@ -1,3 +1,6 @@
 {
-  "locale": "'Default Endpoint - No Country Setup'"
+  "name": "United Kingdom",
+  "countryCode": "EN",
+  "countryCodeLower": "en",
+  "languageCode": "en-GB"
 }
